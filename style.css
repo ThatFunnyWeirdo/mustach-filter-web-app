@@ -1,0 +1,15 @@
+.h1
+{
+  font-size: 25px;
+  font-family: 'Delicious Handrawn', cursive;
+}
+
+canvas {
+    border:1px solid black;
+    text-align: center;
+}
+
+.btn
+{
+    font-family: 'Nanum Pen Script', cursive;
+}
